@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1481098344 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\and.cpp
+	"And.h"
+
+1479448092 c:\users\administrator\desktop\lcsimulator\lcsimulator\and.h
+	"gate.h"
+
+1479448422 c:\users\administrator\desktop\lcsimulator\lcsimulator\gate.h
+	<vector>
+	"Wire.h"
+
+1481182416 c:\users\administrator\desktop\lcsimulator\lcsimulator\wire.h
+	<iostream>
+
+1479448450 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\gate.cpp
+	"Gate.h"
+
+1481183931 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\lcsimulator.cpp
+	"LCSimulator.h"
+
+1481183937 c:\users\administrator\desktop\lcsimulator\lcsimulator\lcsimulator.h
+	"Wire.h"
+	"Gate.h"
+	"And.h"
+	"Nand.h"
+	"Or.h"
+	"Nor.h"
+	"Xor.h"
+	"Nxor.h"
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+
+1479448958 c:\users\administrator\desktop\lcsimulator\lcsimulator\nand.h
+	"gate.h"
+
+1481098246 c:\users\administrator\desktop\lcsimulator\lcsimulator\or.h
+	"gate.h"
+
+1481098412 c:\users\administrator\desktop\lcsimulator\lcsimulator\nor.h
+	"gate.h"
+
+1481098658 c:\users\administrator\desktop\lcsimulator\lcsimulator\xor.h
+	"gate.h"
+
+1481098680 c:\users\administrator\desktop\lcsimulator\lcsimulator\nxor.h
+	"gate.h"
+
+1481184075 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<fstream>
+	"LCSimulator.h"
+
+1479451828 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\nand.cpp
+	"Nand.h"
+
+1481098536 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\nor.cpp
+	"Nor.h"
+
+1481098814 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\nxor.cpp
+	"Nxor.h"
+
+1481099386 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\or.cpp
+	"Or.h"
+
+1481182483 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\wire.cpp
+	"Wire.h"
+
+1481098810 source:c:\users\administrator\desktop\lcsimulator\lcsimulator\xor.cpp
+	"Xor.h"
+
+1481098344 source:d:\lcsimulator\lcsimulator\and.cpp
+	"And.h"
+
+1479448092 d:\lcsimulator\lcsimulator\and.h
+	"gate.h"
+
+1479448422 d:\lcsimulator\lcsimulator\gate.h
+	<vector>
+	"Wire.h"
+
+1481182418 d:\lcsimulator\lcsimulator\wire.h
+	<iostream>
+
+1479448450 source:d:\lcsimulator\lcsimulator\gate.cpp
+	"Gate.h"
+
+1481183932 source:d:\lcsimulator\lcsimulator\lcsimulator.cpp
+	"LCSimulator.h"
+
+1481183938 d:\lcsimulator\lcsimulator\lcsimulator.h
+	"Wire.h"
+	"Gate.h"
+	"And.h"
+	"Nand.h"
+	"Or.h"
+	"Nor.h"
+	"Xor.h"
+	"Nxor.h"
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+
+1479448958 d:\lcsimulator\lcsimulator\nand.h
+	"gate.h"
+
+1481098246 d:\lcsimulator\lcsimulator\or.h
+	"gate.h"
+
+1481098412 d:\lcsimulator\lcsimulator\nor.h
+	"gate.h"
+
+1481098658 d:\lcsimulator\lcsimulator\xor.h
+	"gate.h"
+
+1481098680 d:\lcsimulator\lcsimulator\nxor.h
+	"gate.h"
+
+1481605372 source:d:\lcsimulator\lcsimulator\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<fstream>
+	"LCSimulator.h"
+
+1479451828 source:d:\lcsimulator\lcsimulator\nand.cpp
+	"Nand.h"
+
+1481098536 source:d:\lcsimulator\lcsimulator\nor.cpp
+	"Nor.h"
+
+1481098814 source:d:\lcsimulator\lcsimulator\nxor.cpp
+	"Nxor.h"
+
+1481099386 source:d:\lcsimulator\lcsimulator\or.cpp
+	"Or.h"
+
+1481182484 source:d:\lcsimulator\lcsimulator\wire.cpp
+	"Wire.h"
+
+1481098810 source:d:\lcsimulator\lcsimulator\xor.cpp
+	"Xor.h"
+

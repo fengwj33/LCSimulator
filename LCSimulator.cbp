@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="LCSimulator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/LCSimulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/LCSimulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="LCSimulator/And.cpp" />
+		<Unit filename="LCSimulator/And.h" />
+		<Unit filename="LCSimulator/Gate.cpp" />
+		<Unit filename="LCSimulator/Gate.h" />
+		<Unit filename="LCSimulator/LCSimulator.cpp" />
+		<Unit filename="LCSimulator/LCSimulator.h" />
+		<Unit filename="LCSimulator/Logic.vcxproj.filters" />
+		<Unit filename="LCSimulator/Main.cpp" />
+		<Unit filename="LCSimulator/Nand.cpp" />
+		<Unit filename="LCSimulator/Nand.h" />
+		<Unit filename="LCSimulator/Nor.cpp" />
+		<Unit filename="LCSimulator/Nor.h" />
+		<Unit filename="LCSimulator/Nxor.cpp" />
+		<Unit filename="LCSimulator/Nxor.h" />
+		<Unit filename="LCSimulator/Or.cpp" />
+		<Unit filename="LCSimulator/Or.h" />
+		<Unit filename="LCSimulator/Wire.cpp" />
+		<Unit filename="LCSimulator/Wire.h" />
+		<Unit filename="LCSimulator/Xor.cpp" />
+		<Unit filename="LCSimulator/Xor.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

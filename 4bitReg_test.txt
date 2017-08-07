@@ -1,0 +1,25 @@
+AddListener Q:4
+d=1
+CP=0
+GO
+d=1
+CP=1
+GO
+d=0
+CP=0
+GO
+d=0
+CP=1
+GO
+d=1
+CP=0
+GO
+d=1
+CP=1
+GO
+d=1
+CP=0
+GO
+d=1
+CP=1
+GO
